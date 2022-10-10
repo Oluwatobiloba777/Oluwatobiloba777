@@ -3,13 +3,13 @@
 [![](https://visitcount.itsvg.in/api?id=Oluwatobiloba777&icon=0&color=4)](https://visitcount.itsvg.in)
 <h3 align="center">
 	Hello there I'm OLUWATOBILOBA HUNKUTEN :smile:
-	
-	
-ABOUT ME
+</h3>
+
+
+###ABOUT ME
 👨🏾‍🏫 A software Engineer
 💻 Learning at ALX - Cloud Development and Software Engineering
 ❤️ I absolutely adore Python(trying to woo this beautiful language)
-</h3>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Mr_Hunkuten)
