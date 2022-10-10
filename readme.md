@@ -1,8 +1,12 @@
-<!-- - [![Visitors](https://visitor-badge.glitch.me/badge?page_id=Oluwatobiloba777.visitor-badge)](https://github.com/theegr8dev) -->
+<!-- - [![Visitors](https://visitor-badge.glitch.me/badge?page_id=Oluwatobiloba777.visitor-badge)](https://github.com/Oluwatobiloba777) -->
 <!-- <img width="0em" src="https://visitor-badge.glitch.me/badge?page_id=Oluwatobiloba777.visitor-badge" /> -->
 [![](https://visitcount.itsvg.in/api?id=Oluwatobiloba777&icon=0&color=4)](https://visitcount.itsvg.in)
 <h3 align="center">
-	Hello and welcome :smile:
+	Hello there I'm OLUWATOBILOBA HUNKUTEN :smile:
+ABOUT ME
+👨🏾‍🏫 A software Engineer
+💻 Learning at ALX - Cloud Development and Software Engineering
+❤️ I absolutely adore Python(trying to woo this beautiful language)
 </h3>
 
 ## 🌐 Socials:
