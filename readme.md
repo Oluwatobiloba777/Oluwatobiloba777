@@ -24,9 +24,7 @@
 
 
 
-<p align="center">
-	<img width="450em" src="https://github-readme-streak-stats.herokuapp.com?user=Oluwatobiloba777&theme=gruvbox&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)">
-</p>
+
 
 <p align="center">
 	<img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oluwatobiloba777&layout=compact&theme=gruvbox">
