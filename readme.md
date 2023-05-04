@@ -9,8 +9,6 @@
 ### ABOUT ME
 👨🏾‍🏫 A software Engineer
 
-💻 Learning at ALX - Cloud Development and Software Engineering
-
 ❤️ I absolutely adore Python(trying to woo this beautiful language)
 
 ## 🌐 Socials:
