@@ -20,8 +20,9 @@
 	<img width="450em" src="https://github-readme-stats.vercel.app/api?username=Oluwatobiloba777&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=gruvbox" />
 </p>
 
-
-
+<p align="center">
+	<img width="450em" src="https://github-readme-streak-stats.herokuapp.com?user=Oluwatobiloba777&theme=gruvbox&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)">
+</p>
 
 
 <p align="center">
