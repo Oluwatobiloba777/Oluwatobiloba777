@@ -43,8 +43,8 @@ I can help bring technological solutions to your businesses, you can reach me vi
 ### Frameworks, Platforms
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![DJANGO](https://img.shields.io/badge/framework-Django-darkgreen)
-![FLASK] (https://img.shields.io/badge/flask-framework)
-![FASTAPI] (https://img.shields.io/badge/FASTAPI-FRAMEWORK)
+![FLASK](https://img.shields.io/badge/flask-framework)
+![FASTAPI](https://img.shields.io/badge/FASTAPI-FRAMEWORK)
 
 
 ### Hosting
