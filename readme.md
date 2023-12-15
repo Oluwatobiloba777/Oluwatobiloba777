@@ -11,6 +11,8 @@
 
 ❤️ I absolutely adore Python(trying to woo this beautiful language)
 
+I can help bring technological solutions to your businesses, you can reach me via iamoluwatobilobahunkuten@gmail.com or call +2349135668181
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Mr_Hunkuten)
 
@@ -41,6 +43,9 @@
 ### Frameworks, Platforms
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![DJANGO](https://img.shields.io/badge/framework-Django-darkgreen)
+![FLASK] (https://img.shields.io/badge/flask-framework)
+![FASTAPI] (https://img.shields.io/badge/FASTAPI-FRAMEWORK)
+
 
 ### Hosting
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
