@@ -7,11 +7,11 @@
 
 
 ### ABOUT ME
-👨🏾‍🏫 A software Engineer
+👨🏾‍🏫 A Software Engineer
 
 ❤️ I absolutely adore Python(trying to woo this beautiful language)
 
-I can help bring technological solutions to your businesses, you can reach me via iamoluwatobilobahunkuten@gmail.com or call +2349135668181
+ I possess expertise in IT support and web development, and I proficiently utilize Python as a server-side language using frameworks like Django, FastAPI, Flask. Additionally, I am skilled in SQL, HTML, and CSS. Most importantly, I enjoy solving business problems using technological tools, you can reach me via iamoluwatobilobahunkuten@gmail.com or call +2349135668181
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Mr_Hunkuten)
@@ -43,7 +43,7 @@ I can help bring technological solutions to your businesses, you can reach me vi
 ### Frameworks, Platforms
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![DJANGO](https://img.shields.io/badge/framework-Django-darkgreen)
-![FLASK](https://img.shields.io/badge/flask-framework)
+![FLASK](https://img.shields.io/badge/FLASK-FRAMEWORK)
 ![FASTAPI](https://img.shields.io/badge/FASTAPI-FRAMEWORK)
 
 
