@@ -2,7 +2,7 @@
 <!-- <img width="0em" src="https://visitor-badge.glitch.me/badge?page_id=Oluwatobiloba777.visitor-badge" /> -->
 <!-- [![](https://visitcount.itsvg.in/api?id=Oluwatobiloba777&icon=0&color=4)](https://visitcount.itsvg.in) -->
 <h3 align="center">
-	Hello there I'm OLUWATOBILOBA HUNKUTEN :smile:
+	Hello there I'm JOSHUA OLUWATOBI HUNKUTEN :smile:
 </h3>
 
 
