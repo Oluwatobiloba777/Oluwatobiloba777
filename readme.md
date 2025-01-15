@@ -9,9 +9,7 @@
 ### ABOUT ME
 👨🏾‍🏫 A Software Engineer
 
-❤️ I absolutely adore Python(trying to woo this beautiful language)
-
- I possess expertise in IT support and web development, and I proficiently utilize Python as a server-side language using frameworks like Django, FastAPI, Flask. Additionally, I am skilled in JAVASCRIPT, SQL, HTML, and CSS. Most importantly, I enjoy solving business problems using technological tools, you can reach me via iamoluwatobilobahunkuten@gmail.com or call +447908299923
+ I am a Software Engineer with hands-on experience in Python, Javascript and Java. Proficient in driving product development from conception to distribution, emphasizing marketleading solutions and strategic alignment between engineering and business domains. You can reach me via iamoluwatobilobahunkuten@gmail.com or call +447908299923
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Mr_Hunkuten)
